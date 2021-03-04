@@ -1,6 +1,6 @@
 # CPSC350_SP21_ASSIGNMENT3_ASEOFF
 
-**USING 2 of my 3 LATE DAYS**
+**USING 2 LATE DAYS**
 
 Name: Jesse Aseoff
 
